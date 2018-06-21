@@ -1,0 +1,2 @@
+# scmk-docs
+Template "Estático".
